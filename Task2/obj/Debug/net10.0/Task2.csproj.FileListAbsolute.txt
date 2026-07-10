@@ -1,0 +1,14 @@
+F:\Assignment\Task2\bin\Debug\net10.0\Task2.exe
+F:\Assignment\Task2\bin\Debug\net10.0\Task2.deps.json
+F:\Assignment\Task2\bin\Debug\net10.0\Task2.runtimeconfig.json
+F:\Assignment\Task2\bin\Debug\net10.0\Task2.dll
+F:\Assignment\Task2\bin\Debug\net10.0\Task2.pdb
+F:\Assignment\Task2\obj\Debug\net10.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment\Task2\obj\Debug\net10.0\Task2.AssemblyInfoInputs.cache
+F:\Assignment\Task2\obj\Debug\net10.0\Task2.AssemblyInfo.cs
+F:\Assignment\Task2\obj\Debug\net10.0\Task2.csproj.CoreCompileInputs.cache
+F:\Assignment\Task2\obj\Debug\net10.0\Task2.dll
+F:\Assignment\Task2\obj\Debug\net10.0\refint\Task2.dll
+F:\Assignment\Task2\obj\Debug\net10.0\Task2.pdb
+F:\Assignment\Task2\obj\Debug\net10.0\Task2.genruntimeconfig.cache
+F:\Assignment\Task2\obj\Debug\net10.0\ref\Task2.dll
