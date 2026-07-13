@@ -1,0 +1,15 @@
+F:\Assignment\assi11july\bin\Debug\net10.0\assi11july.exe
+F:\Assignment\assi11july\bin\Debug\net10.0\assi11july.deps.json
+F:\Assignment\assi11july\bin\Debug\net10.0\assi11july.runtimeconfig.json
+F:\Assignment\assi11july\bin\Debug\net10.0\assi11july.dll
+F:\Assignment\assi11july\bin\Debug\net10.0\assi11july.pdb
+F:\Assignment\assi11july\obj\Debug\net10.0\assi11july.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment\assi11july\obj\Debug\net10.0\assi11july.AssemblyInfoInputs.cache
+F:\Assignment\assi11july\obj\Debug\net10.0\assi11july.AssemblyInfo.cs
+F:\Assignment\assi11july\obj\Debug\net10.0\assi11july.csproj.CoreCompileInputs.cache
+F:\Assignment\assi11july\obj\Debug\net10.0\assi11july.sourcelink.json
+F:\Assignment\assi11july\obj\Debug\net10.0\assi11july.dll
+F:\Assignment\assi11july\obj\Debug\net10.0\refint\assi11july.dll
+F:\Assignment\assi11july\obj\Debug\net10.0\assi11july.pdb
+F:\Assignment\assi11july\obj\Debug\net10.0\assi11july.genruntimeconfig.cache
+F:\Assignment\assi11july\obj\Debug\net10.0\ref\assi11july.dll
