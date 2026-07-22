@@ -1,0 +1,15 @@
+F:\Assignment\Assignment17july\bin\Debug\net10.0\Assignment17july.exe
+F:\Assignment\Assignment17july\bin\Debug\net10.0\Assignment17july.deps.json
+F:\Assignment\Assignment17july\bin\Debug\net10.0\Assignment17july.runtimeconfig.json
+F:\Assignment\Assignment17july\bin\Debug\net10.0\Assignment17july.dll
+F:\Assignment\Assignment17july\bin\Debug\net10.0\Assignment17july.pdb
+F:\Assignment\Assignment17july\obj\Debug\net10.0\Assignment17july.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment\Assignment17july\obj\Debug\net10.0\Assignment17july.AssemblyInfoInputs.cache
+F:\Assignment\Assignment17july\obj\Debug\net10.0\Assignment17july.AssemblyInfo.cs
+F:\Assignment\Assignment17july\obj\Debug\net10.0\Assignment17july.csproj.CoreCompileInputs.cache
+F:\Assignment\Assignment17july\obj\Debug\net10.0\Assignment17july.sourcelink.json
+F:\Assignment\Assignment17july\obj\Debug\net10.0\Assignment17july.dll
+F:\Assignment\Assignment17july\obj\Debug\net10.0\refint\Assignment17july.dll
+F:\Assignment\Assignment17july\obj\Debug\net10.0\Assignment17july.pdb
+F:\Assignment\Assignment17july\obj\Debug\net10.0\Assignment17july.genruntimeconfig.cache
+F:\Assignment\Assignment17july\obj\Debug\net10.0\ref\Assignment17july.dll
