@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Assignment\\Assign22july\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|f:\\assignment\\assign22july\\view\\manufacture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|solutionrelative:view\\manufacture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|f:\\assignment\\assign22july\\view\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|solutionrelative:view\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|f:\\assignment\\assign22july\\view\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|solutionrelative:view\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|f:\\assignment\\assign22july\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|solutionrelative:controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|f:\\assignment\\assign22july\\controllers\\automobilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|solutionrelative:controllers\\automobilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|f:\\assignment\\assign22july\\model\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|solutionrelative:model\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|f:\\assignment\\assign22july\\model\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A407FA2E-9BF8-4419-82ED-B8A99B18B734}|Assign22july.csproj|solutionrelative:model\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manufacture.cshtml",
+              "DocumentMoniker": "F:\\Assignment\\Assign22july\\View\\Manufacture.cshtml",
+              "RelativeDocumentMoniker": "View\\Manufacture.cshtml",
+              "ToolTip": "F:\\Assignment\\Assign22july\\View\\Manufacture.cshtml",
+              "RelativeToolTip": "View\\Manufacture.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T16:37:16.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "F:\\Assignment\\Assign22july\\View\\Success.cshtml",
+              "RelativeDocumentMoniker": "View\\Success.cshtml",
+              "ToolTip": "F:\\Assignment\\Assign22july\\View\\Success.cshtml",
+              "RelativeToolTip": "View\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T16:35:42.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\Assignment\\Assign22july\\View\\Register.cshtml",
+              "RelativeDocumentMoniker": "View\\Register.cshtml",
+              "ToolTip": "F:\\Assignment\\Assign22july\\View\\Register.cshtml",
+              "RelativeToolTip": "View\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T16:34:09.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManufacturerController.cs",
+              "DocumentMoniker": "F:\\Assignment\\Assign22july\\Controllers\\ManufacturerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManufacturerController.cs",
+              "ToolTip": "F:\\Assignment\\Assign22july\\Controllers\\ManufacturerController.cs",
+              "RelativeToolTip": "Controllers\\ManufacturerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T16:31:56.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutomobileController.cs",
+              "DocumentMoniker": "F:\\Assignment\\Assign22july\\Controllers\\AutomobileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutomobileController.cs",
+              "ToolTip": "F:\\Assignment\\Assign22july\\Controllers\\AutomobileController.cs*",
+              "RelativeToolTip": "Controllers\\AutomobileController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T16:30:20.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "F:\\Assignment\\Assign22july\\Model\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Model\\Manufacturer.cs",
+              "ToolTip": "F:\\Assignment\\Assign22july\\Model\\Manufacturer.cs",
+              "RelativeToolTip": "Model\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T16:29:08.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "F:\\Assignment\\Assign22july\\Model\\Automobile.cs",
+              "RelativeDocumentMoniker": "Model\\Automobile.cs",
+              "ToolTip": "F:\\Assignment\\Assign22july\\Model\\Automobile.cs*",
+              "RelativeToolTip": "Model\\Automobile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T16:25:57.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
